@@ -33,7 +33,6 @@ Example:
 
 - `pandas`
 - `scikit-learn`
-- `nltk`
 - `matplotlib` (optional for visualization)
 
 ---
